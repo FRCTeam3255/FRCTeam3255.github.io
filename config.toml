@@ -1,0 +1,28 @@
+title = "SuperNURDs"
+
+[author]
+  name = "SuperNURDs"
+  headline = "FIRST Robotics Competition Team 3255"
+  image = "logo.png"
+  links = [
+    { link = { href = "styles/", text = "All the link styles", target = "_self" } },
+    { instagram = "https://www.instagram.com/frcteam3255/" },
+    { youtube = "https://www.youtube.com/@FRC3255"},
+    { github = { href = "https://github.com/FRCTeam3255", text = "Code", icon = "github" } },
+    { grabcad = { href = "https://github.com/FRCTeam3255", text = "CAD"}},
+    { facebook = "https://www.facebook.com/team3255sphssupernurds" },
+    { linkedin = "https://www.linkedin.com/company/frc-team-3255-the-supernurds/posts/?feedView=all"},
+    { tba = { href = "https://www.thebluealliance.com/team/3255/history", text= "History - The Blue Alliance"}},
+    { first = { href = "https://www.firstinspires.org/", text= "FIRST Homepage"}},
+    { first = { href = "https://www.firstinspires.org/robotics/frc", text= "FIRST Robotics Competition"}},
+  ]
+
+# Settings - DO NOT MODIFY
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true
