@@ -8,7 +8,7 @@ title = "SuperNURDs | FRC Team 3255"
     { instagram = "https://www.instagram.com/frcteam3255/" },
     { youtube = "https://www.youtube.com/@FRC3255"},
     { github = { href = "https://github.com/FRCTeam3255", text = "Code", icon = "github" } },
-    { grabcad = { href = "https://github.com/FRCTeam3255", text = "CAD"}},
+    { grabcad = { href = "https://grabcad.com/frc.team.3255.the.supernurds-2/models", text = "CAD"}},
     { facebook = "https://www.facebook.com/team3255sphssupernurds" },
     { linkedin = "https://www.linkedin.com/company/frc-team-3255-the-supernurds/posts/?feedView=all"},
     { tba = { href = "https://www.thebluealliance.com/team/3255/history", text= "History - The Blue Alliance"}},
