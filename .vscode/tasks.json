@@ -4,7 +4,8 @@
         {
             "label": "Run Jekyll Server",
             "type": "shell",
-            "command": "cd app && bundle exec jekyll serve",
+            "command": "cd app && bundle exec jekyll s",
+            "problemMatcher": []
         }
     ]
 }
