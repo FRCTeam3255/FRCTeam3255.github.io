@@ -36,8 +36,32 @@
                         class="fab fa-youtube"></i></a>
                 {% endunless %}
                 {% unless site.tba_team == %}
-                <a href="https://www.thebluealliance.com/team/{{site.tba_team}}" target="_blank"
-                    class="has-text-black"><i class="fab fa-file-code"></i></a>
+                <a href="https://www.thebluealliance.com/team/{{site.tba_team}}" target="_blank" class="has-text-black">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 112" width="32" height="32">
+                        <defs>
+                            <style>
+                                .cls-1 {
+                                    fill: none;
+                                    stroke: #000000;
+                                    stroke-miterlimit: 1.414;
+                                    stroke-width: 8px;
+                                }
+
+                                .cls-2 {
+                                    fill: #000000;
+                                }
+                            </style>
+                        </defs>
+                        <line class="cls-1" x1="11" y1="20" x2="11" y2="84" />
+                        <line class="cls-1" x1="61" y1="20" x2="61" y2="84" />
+                        <path class="cls-1" d="M39,92a25,25,0,0,0,25,25" transform="translate(-28 -8)" />
+                        <path class="cls-1" d="M89,92a25,25,0,0,1-25,25" transform="translate(-28 -8)" />
+                        <line class="cls-1" x1="36" y1="20" x2="36" y2="109" />
+                        <line class="cls-1" x1="11" y1="81" x2="61" y2="81" />
+                        <line class="cls-1" x1="11" y1="53" x2="61" y2="53" />
+                        <rect class="cls-2" width="72" height="14" rx="4" transform="translate(0, 20)" />
+                    </svg>
+                </a>
                 {% endunless %}
                 {% unless site.github_username == %}
                 <a href="http://www.github.com/{{site.github_username}}" target="_blank" class="has-text-black"><i
