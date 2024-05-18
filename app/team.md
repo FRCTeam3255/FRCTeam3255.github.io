@@ -1,6 +1,6 @@
 ---
-title: Test Page
-layout: page
+title: Our Team
+layout: project
 ---
 
 # This is heading 1
