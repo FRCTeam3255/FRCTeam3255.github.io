@@ -10,7 +10,7 @@ title = "SuperNURDs | FRC Team 3255"
     { github = { href = "https://github.com/FRCTeam3255", text = "Code", icon = "github" } },
     { grabcad = { href = "https://grabcad.com/frc.team.3255.the.supernurds-2/models", text = "CAD"}},
     { facebook = "https://www.facebook.com/team3255sphssupernurds" },
-    { linkedin = "https://www.linkedin.com/company/frc-team-3255-the-supernurds/posts/?feedView=all"},
+    { linkedin = "https://www.linkedin.com/company/frcteam3255/posts/?feedView=all"},
     { tba = { href = "https://www.thebluealliance.com/team/3255/history", text= "History - The Blue Alliance"}},
     { first = { href = "https://www.firstinspires.org/", text= "FIRST Homepage"}},
     { first = { href = "https://www.firstinspires.org/robotics/frc", text= "FIRST Robotics Competition"}},
