@@ -6,7 +6,8 @@ title = "SuperNURDs | FRC Team 3255"
   image = "logo.png"
   links = [
     { instagram = "https://www.instagram.com/frcteam3255/" },
-    { youtube = "https://www.youtube.com/@FRC3255"},
+    { youtube = "https://www.youtube.com/@FRCTeam3255"},
+    { link = { href = "https://frcteam3255.com/give", text= "Giving Link"}},
     { github = { href = "https://github.com/FRCTeam3255", text = "Code", icon = "github" } },
     { grabcad = { href = "https://grabcad.com/frc.team.3255.the.supernurds-2/models", text = "CAD"}},
     { facebook = "https://www.facebook.com/team3255sphssupernurds" },
